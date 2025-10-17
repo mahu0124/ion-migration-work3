@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+catboost_info/*
+!catboost_info/catboost_training.json
